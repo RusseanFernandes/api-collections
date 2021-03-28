@@ -21,4 +21,5 @@ fun main() {
     nome2.sort()
     nome2.forEach { println(it) }
 
+    println("-----")
 }
