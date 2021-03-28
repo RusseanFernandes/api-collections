@@ -24,5 +24,5 @@ fun main() {
     salarios2.sort()
     salarios2.forEach { println(it) }
 
-    println("-----")
+    println("------")
 }
