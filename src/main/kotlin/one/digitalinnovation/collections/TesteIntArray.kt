@@ -31,5 +31,5 @@ fun main() {
     for (valor in values){
         println(valor)
     }
-    println("------Russean-------")
+    println("------Russeann-------")
 }
